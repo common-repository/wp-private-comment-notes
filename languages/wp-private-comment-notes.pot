@@ -1,0 +1,81 @@
+# Loco Gettext template
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Private Comment Notes\n"
+"Report-Msgid-Bugs-To: Ren Ventura <mail@engagewp.com>\n"
+"POT-Creation-Date: 2016-11-04 03:15-0400\n"
+"PO-Revision-Date: 2016-11-04 03:16-0400\n"
+"Last-Translator: \n"
+"Language-Team: Ren Ventura <mail@engagewp.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Revision-Date: Thur Nov 04 2016 03:15:24 GMT-0500 (EST)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;"
+"_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;"
+"esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;"
+"transChoice:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: templates/email.php:6
+msgid "Hello "
+msgstr ""
+
+#: templates/no-notes.php:2
+msgid "This comment does not have any notes, yet. You can add one below."
+msgstr ""
+
+#: templates/note-form.php:2
+msgid "Add your note:"
+msgstr ""
+
+#: templates/note-form.php:8
+msgid "Email this note to the comment author?"
+msgstr ""
+
+#: templates/note-form.php:12
+msgid "Add Note to Comment"
+msgstr ""
+
+#: templates/note-li.php:5
+msgid "This note was emailed to the commenter."
+msgstr ""
+
+#: templates/note-li.php:12
+msgid "Delete note"
+msgstr ""
+
+#: wp-private-comment-notes.php:138
+msgid "Comment Notes"
+msgstr ""
+
+#: wp-private-comment-notes.php:175 wp-private-comment-notes.php:242
+msgid "Unauthorized"
+msgstr ""
+
+#: wp-private-comment-notes.php:195 wp-private-comment-notes.php:256
+msgid "No comment exists"
+msgstr ""
+
+#: wp-private-comment-notes.php:229
+msgid "Your note could not be saved."
+msgstr ""
+
+#: wp-private-comment-notes.php:279
+msgid "Your note was removed."
+msgstr ""
+
+#: wp-private-comment-notes.php:283
+msgid "Your note could not be removed."
+msgstr ""
+
+#: wp-private-comment-notes.php:308
+msgid "Your Comment on "
+msgstr ""

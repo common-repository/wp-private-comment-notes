@@ -1,0 +1,13 @@
+.wp-private-comment-note {
+	background: #f5f5f5;
+	padding: 10px;
+	border-left: 4px solid #ccc;
+}
+
+.wp-private-comment-notes-note-header {
+	font-style: italic;
+}
+
+.wp-private-comment-note-emailed {
+	float: right;
+}
